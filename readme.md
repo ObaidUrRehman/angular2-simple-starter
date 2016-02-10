@@ -1,0 +1,1 @@
+A very simple Angular2 starter templates based on sample from the Angular site - http://www.angular.io
